@@ -1,8 +1,8 @@
 <h2>
-  Hey 👋, I'm <a href="https://github.com/laxmanrathod69">Laxman Rathod!</a>
+  Hey 👋, I'm <a href="https://github.com/lra8dev">Laxman Rathod!</a>
 </h2>
 <div align="start">
-  <a href="https://www.linkedin.com/in/laxmanrathod69" target="_blank">
+  <a href="https://www.linkedin.com/in/laxmanrathod" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/luckyrathod__" target="_blank">
@@ -17,13 +17,13 @@
 
 <p>I'm a passionate Full-Stack Developer with a deep interest in building scalable web applications and efficient backend systems. My journey in the digital space has equipped me with a strong problem-solving mindset and a love for coding. I'm always open to learning different ideas, working practices and cultures 💡. I love to explore new technologies and leverage them to solve real-world issues ✨.</p>
 
-<img src="https://github.com/laxmanrathod69/laxmanrathod69/blob/main/assets/programming%20illustration.png" min-width="300px" max-width="300px" width="350px" align="right" alt="programming"/>
+<img src="https://github.com/lra8dev/lra8dev/blob/main/assets/programming%20illustration.png" min-width="300px" max-width="300px" width="350px" align="right" alt="programming"/>
 
 ### Personally:
 
 - 🛠️ I have alot of passion working with TypeScript/NextJS.
 - 💻 I'm constantly exploring new technologies and tools to expand my skill set.
-- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/laxmanrathod69).
+- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/lra8dev).
 - 🔍 Always on the hunt for interesting projects to collaborate on.
 - 📚 Lifelong learner committed to personal and professional growth.
 - 📩 How to reach me: [laxmanrathod.dev@gmail.com](laxmanrathod.dev@gmail.com)
@@ -47,19 +47,19 @@
   <summary>⚡ Github Stats </summary>
 
   <div align="center"> 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laxmanrathod69&theme=github_dark" alt="GitHub Analytics" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lra8dev&theme=github_dark" alt="GitHub Analytics" />
 </div>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laxmanrathod69&theme=github_dark" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laxmanrathod69&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lra8dev&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lra8dev&theme=github_dark" alt="Most Commit Language" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laxmanrathod69&show_icons=true&theme=github_dark" alt="your-github-stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=laxmanrathod69&theme=github_dark&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lra8dev&show_icons=true&theme=github_dark" alt="your-github-stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lra8dev&theme=github_dark&utcOffset=8" alt="Productive Time" />
 </p>
 
   <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laxmanrathod69&theme=dracula&no-frame=true&row=1&column=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lra8dev&theme=dracula&no-frame=true&row=1&column=8" alt="GitHub Trophies" />
 </p>
 </details>
 
@@ -70,28 +70,28 @@
 <th>💻 Projects</th>	<th>🌟 Stars</th>	<th>🍴 Forks</th>	<th>🐛 Issues</th>	<th>🔔 Pull Requests</th>	<th>👨‍💻 Language </th>
 </tr>
 <tr>
-<td>🎙️ <a href="https://github.com/laxmanrathod69/Podly">Podly</a></td>
-<td><img src="https://img.shields.io/github/stars/laxmanrathod69/Podly?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/forks/laxmanrathod69/Podly?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/issues/laxmanrathod69/Podly?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/issues-pr/laxmanrathod69/Podly?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/languages/top/laxmanrathod69/Podly?style=flat-square" /></td>
+<td>🎙️ <a href="https://github.com/lra8dev/Podly">Podly</a></td>
+<td><img src="https://img.shields.io/github/stars/lra8dev/Podly?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/forks/lra8dev/Podly?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/issues/lra8dev/Podly?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/issues-pr/lra8dev/Podly?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/languages/top/lra8dev/Podly?style=flat-square" /></td>
 </tr>
 <tr>
-<td>☁️ <a href="https://github.com/laxmanrathod69/skysafe">SkySafe</a></td>
-<td><img src="https://img.shields.io/github/stars/laxmanrathod69/skysafe?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/forks/laxmanrathod69/skysafe?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/issues/laxmanrathod69/skysafe?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/issues-pr/laxmanrathod69/skysafe?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/languages/top/laxmanrathod69/skysafe?style=flat-square" /></td>
+<td>☁️ <a href="https://github.com/lra8dev/skysafe">SkySafe</a></td>
+<td><img src="https://img.shields.io/github/stars/lra8dev/skysafe?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/forks/lra8dev/skysafe?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/issues/lra8dev/skysafe?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/issues-pr/lra8dev/skysafe?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/languages/top/lra8dev/skysafe?style=flat-square" /></td>
 </tr>
 <tr>
-<td>💡 <a href="https://github.com/laxmanrathod69/grouple">Grouple</a></td>
-<td><img src="https://img.shields.io/github/stars/laxmanrathod69/grouple?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/forks/laxmanrathod69/grouple?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/issues/laxmanrathod69/grouple?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/issues-pr/laxmanrathod69/grouple?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/languages/top/laxmanrathod69/grouple?style=flat-square" /></td>
+<td>💡 <a href="https://github.com/lra8dev/grouple">Grouple</a></td>
+<td><img src="https://img.shields.io/github/stars/lra8dev/grouple?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/forks/lra8dev/grouple?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/issues/lra8dev/grouple?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/issues-pr/lra8dev/grouple?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/languages/top/lra8dev/grouple?style=flat-square" /></td>
 </tr>
 </table>
 </details>
