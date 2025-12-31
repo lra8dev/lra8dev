@@ -32,12 +32,12 @@
 ### My Absolute Favorites:
 
 - 💻 I love exploring new technologies and building cool stuffs.
-- 🍕 Outdoor/Video Games.
+- 🍕 Travelling, Outdoor Games and Cinematography.
 
 ### ⚙️ Languages and tools:
 
 <a href="#">
-  <img align="start" margin="10px" src="https://skillicons.dev/icons?i=js,ts,nodejs,react,python,php,nextjs,express,postgres,mongodb,flask,tailwind,linux,vscode,github" />
+  <img align="start" margin="10px" src="https://skillicons.dev/icons?i=js,ts,python,php,nodejs,express,react,nextjs,tailwind,postgres,mongodb,prisma,docker,linux,vscode" />
 </a>
 <br>
 
@@ -70,15 +70,15 @@
 <th>💻 Projects</th>	<th>🌟 Stars</th>	<th>🍴 Forks</th>	<th>🐛 Issues</th>	<th>🔔 Pull Requests</th>	<th>👨‍💻 Language </th>
 </tr>
 <tr>
-<td>🎙️ <a href="https://github.com/lra8dev/Podly">Podly</a></td>
-<td><img src="https://img.shields.io/github/stars/lra8dev/Podly?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/forks/lra8dev/Podly?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/issues/lra8dev/Podly?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/issues-pr/lra8dev/Podly?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/languages/top/lra8dev/Podly?style=flat-square" /></td>
+<td><a href="https://github.com/lra8dev/BlastAPI.dev">⚡ BlastAPI</a></td>
+<td><img src="https://img.shields.io/github/stars/lra8dev/BlastAPI.dev?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/forks/lra8dev/BlastAPI.dev?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/issues/lra8dev/BlastAPI.dev?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/issues-pr/lra8dev/BlastAPI.dev?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/languages/top/lra8dev/BlastAPI.dev?style=flat-square" /></td>
 </tr>
 <tr>
-<td>☁️ <a href="https://github.com/lra8dev/skysafe">SkySafe</a></td>
+<td><a href="https://github.com/lra8dev/skysafe">☁️ SkySafe</a></td>
 <td><img src="https://img.shields.io/github/stars/lra8dev/skysafe?style=flat-square" /></td>
 <td><img src="https://img.shields.io/github/forks/lra8dev/skysafe?style=flat-square" /></td>
 <td><img src="https://img.shields.io/github/issues/lra8dev/skysafe?style=flat-square" /></td>
@@ -86,12 +86,12 @@
 <td><img src="https://img.shields.io/github/languages/top/lra8dev/skysafe?style=flat-square" /></td>
 </tr>
 <tr>
-<td>💡 <a href="https://github.com/lra8dev/grouple">Grouple</a></td>
-<td><img src="https://img.shields.io/github/stars/lra8dev/grouple?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/forks/lra8dev/grouple?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/issues/lra8dev/grouple?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/issues-pr/lra8dev/grouple?style=flat-square" /></td>
-<td><img src="https://img.shields.io/github/languages/top/lra8dev/grouple?style=flat-square" /></td>
+<td><a href="https://github.com/lra8dev/Anonify">🎭 Anonify</a></td>
+<td><img src="https://img.shields.io/github/stars/lra8dev/Anonify?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/forks/lra8dev/Anonify?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/issues/lra8dev/Anonify?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/issues-pr/lra8dev/Anonify?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/languages/top/lra8dev/Anonify?style=flat-square" /></td>
 </tr>
 </table>
 </details>
