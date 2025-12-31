@@ -3,13 +3,13 @@
 </h2>
 <div align="start">
   <a href="https://www.linkedin.com/in/laxmanrathod" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/badge/LinkedIn-blue" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/luckyra8od" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/>
+  <a href="https://x.com/luckyra8od" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-gray" height="25" alt="twitter logo"/>
   </a>
-  <a href="https://discordapp.com/users/1182901168746283010" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/>
+  <a href="https://bento.me/laxmanrathod" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-purple" height="25" alt="portfolio logo"/>
   </a> 
 </div>
 
@@ -27,7 +27,7 @@
 - 🔍 Always on the hunt for interesting projects to collaborate on.
 - 📚 Lifelong learner committed to personal and professional growth.
 - 📩 How to reach me: [laxmanrathod.dev@gmail.com](laxmanrathod.dev@gmail.com)
-- Feel free to reach out and say hello! 🌈✨
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1cZE52A87WGzE7JzFuV8gN1UQPvdE0rn8/view?usp=sharing).
 
 ### My Absolute Favorites:
 
